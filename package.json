@@ -1,0 +1,23 @@
+{
+  "name": "re-keyswitch-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cj2064/re-keyswitch-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cj2064/re-keyswitch-express/issues"
+  },
+  "homepage": "https://github.com/cj2064/re-keyswitch-express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
